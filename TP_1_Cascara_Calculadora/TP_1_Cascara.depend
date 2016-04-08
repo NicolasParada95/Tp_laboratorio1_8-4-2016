@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1460155194 source:c:\users\nico\desktop\utn\programacion y laboratorio 1\tp_1_cascara_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460154679 c:\users\nico\desktop\utn\programacion y laboratorio 1\tp_1_cascara_calculadora\funciones.h
+
+1460154659 source:c:\users\nico\desktop\utn\programacion y laboratorio 1\tp_1_cascara_calculadora\funciones.c
+
